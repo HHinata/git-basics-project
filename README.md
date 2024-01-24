@@ -1,2 +1,2 @@
-#My first project
-This is a practice
+My first project
+
